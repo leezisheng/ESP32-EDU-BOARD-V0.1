@@ -6,3 +6,10 @@
 
 ![image](https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1/blob/master/Pic/0.jpg)
 
+![image](https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1/blob/master/Pic/1.jpg)
+
+![image](https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1/blob/master/Pic/2.jpg)
+
+​	相关原理图如下：
+
+![image](https://github.com/leezisheng/ESP32-EDU-BOARD-V0.1/blob/master/Pic/2.jpg)
